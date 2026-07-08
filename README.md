@@ -42,7 +42,7 @@ No Python. No dependencies. **Just bash — works on every Linux, always.**
 
 ![CipherCleaner Preview](./preview.png)
 
-> *CipherCleaner running in --status mode — checking log files on a test Ubuntu server.*
+
 
 ---
 
